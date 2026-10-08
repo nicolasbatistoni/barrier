@@ -1,0 +1,4 @@
+FORK
+# Perfil de gobernanza (AGENTS GOV-7; detalle: docs/engineering/architecture.md §2).
+# Valores: MANAGED | MINIMAL | FORK | ARCHIVED. La primera línea no comentada es el perfil.
+# Upstream: debauchee/barrier (https://github.com/debauchee/barrier). Fork sin estructura propia: no se toca lo upstream (GOV-10).
